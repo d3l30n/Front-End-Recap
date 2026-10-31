@@ -5,3 +5,8 @@ body {
 h3 {
   color: green;
 }
+
+p {
+  color: blue;
+  font-size: 20px;
+}
