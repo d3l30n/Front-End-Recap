@@ -16,3 +16,9 @@ p {
   color: red;
   font-size: 25px;
 }
+
+/* Ids */
+#exclusive-title {
+  color: orange;
+  font-size: 30px;
+}
