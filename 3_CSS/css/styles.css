@@ -40,3 +40,9 @@ h2 {
   color: pink;
   background-color: yellow;
 }
+
+/*Cor em Hex */
+.hex {
+  color: #abcdef;
+  background-color: #123456;
+}
