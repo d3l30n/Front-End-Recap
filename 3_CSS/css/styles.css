@@ -22,3 +22,15 @@ p {
   color: orange;
   font-size: 30px;
 }
+
+/*Ordem das Regras */
+h2 {
+  border-bottom:2px solid red;
+}
+
+.titulo {
+  border-bottom:2px solid blue;
+}
+#algum-titulo {
+  border-bottom:4px solid green;
+}
