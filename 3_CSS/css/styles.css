@@ -34,3 +34,9 @@ h2 {
 #algum-titulo {
   border-bottom:4px solid green;
 }
+
+/*Cor pelo nome */
+.color-name {
+  color: pink;
+  background-color: yellow;
+}
