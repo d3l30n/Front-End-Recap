@@ -82,3 +82,12 @@ h2 {
   color: hsl(60, 100%, 50%);
   background-color: hsl(0, 100%, 50%);
 }
+
+/*Background-Color*/
+.bg {
+  background-color: pink;
+}
+.bg-c {
+  background-color: lightblue;
+  
+}
