@@ -72,3 +72,13 @@ h2 {
   color: rgba(100,199, 45, 0.3);
 
 }
+
+/*HSL*/
+.hsl {
+  color: hsl(120, 100%, 50%);
+  background-color: hsl(240, 100%, 50%);
+}
+.hsl-2 {
+  color: hsl(60, 100%, 50%);
+  background-color: hsl(0, 100%, 50%);
+}
