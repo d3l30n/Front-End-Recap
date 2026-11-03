@@ -6,10 +6,10 @@ h3 {
   color: green;
 }
 
-p {
+/* p {
   color: blue;
   font-size: 20px;
-}
+} */
 /*Algum comentário*/
 
 .paragraph {
@@ -89,5 +89,18 @@ h2 {
 }
 .bg-c {
   background-color: lightblue;
+  
+}
+
+/*Background-Color*/
+.bg-opacity {
+  background-color: rgba(38, 255, 0, 0.5);
+  opacity: 0.2;
+}
+
+.bg-opacity-2 {
+  background-color: #999;
+  color: black;
+  opacity: 0.8;
   
 }
