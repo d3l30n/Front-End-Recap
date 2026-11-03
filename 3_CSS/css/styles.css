@@ -196,3 +196,12 @@ color: #fff;
   border: 2px dotted red;
   padding: 90px;
 }
+
+/* Borda Individual */
+.border-left {
+  border-left: 2px solid blue;
+}
+.border-right {
+  border-right: 2px double green;
+  width: 300px;
+}
