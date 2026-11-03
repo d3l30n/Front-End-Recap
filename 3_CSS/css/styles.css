@@ -258,3 +258,16 @@ height: 200px;
  width: 300px;
  border: 1px solid #000;
 }
+
+/* text-decoration */
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.remove-underline {
+  text-decoration: none;
+}
