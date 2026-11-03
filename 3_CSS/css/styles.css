@@ -109,3 +109,11 @@ h2 {
   background-color: rgba(0, 0, 255, 0.2);
   color: #000;
 }
+
+/*Background Images*/
+.bg-img {
+ background-image: url(../css/img/3a831187b9ebee13983f42ea6ccd092d.jpg);
+ font-size: 80px;
+ color: white;
+ padding: 20px;
+}
