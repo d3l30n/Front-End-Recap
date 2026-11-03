@@ -238,3 +238,12 @@ color: #fff;
   margin: 5px 10px 15px 20px;
 
 }
+
+/* Box-model */
+.box-model {
+margin: 20px;
+padding: 10px 25px;
+border: 3px double #a5f;
+width: 300px;
+height: 200px;
+}
