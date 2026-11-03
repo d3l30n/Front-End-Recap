@@ -117,3 +117,15 @@ h2 {
  color: white;
  padding: 20px;
 }
+
+/*Centralizar Background-Image*/
+.not-centered-bg, .centered-bg {
+  height: 400px;
+  width: 400px;
+  background-image: url(../css/img/3a831187b9ebee13983f42ea6ccd092d.jpg);
+}
+
+.centered-bg {
+  background-position: center;
+  background-size: cover;
+}
