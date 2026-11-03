@@ -247,3 +247,14 @@ border: 3px double #a5f;
 width: 300px;
 height: 200px;
 }
+
+/* text-align */
+.text-aligned {
+  text-align: right;
+}
+
+.container-center {
+ text-align: center;
+ width: 300px;
+ border: 1px solid #000;
+}
