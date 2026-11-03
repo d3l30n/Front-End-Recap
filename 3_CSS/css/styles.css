@@ -153,3 +153,13 @@ color: #fff;
   background-color: #112;
  padding: 20px;
 }
+
+/* Lados Individuais do Padding */
+.padding-individual {
+  background-color: red;
+  color:#fff;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
