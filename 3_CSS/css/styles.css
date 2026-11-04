@@ -271,3 +271,12 @@ height: 200px;
 .remove-underline {
   text-decoration: none;
 }
+
+/* Text Transform */
+.upper {
+  text-transform: uppercase;
+}
+
+.lower {
+  text-transform: lowercase;
+}
