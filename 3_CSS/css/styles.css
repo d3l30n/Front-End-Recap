@@ -366,3 +366,11 @@ height: 200px;
 .invisible {
   display: none;
 }
+
+/* Position Static */
+.static {
+  position: static;
+  background-color: chocolate;
+  width: 100px;
+  height: 100px;
+}
