@@ -285,3 +285,24 @@ height: 200px;
 .spacing {
   letter-spacing: 14px;
 }
+
+/* Fontes */
+.serif {
+  font-family: serif;
+}
+
+.sans-serif {
+  font-family: sans-serif;
+}
+
+.monospace {
+  font-family: monospace;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.fantasy {
+  font-family: fantasy;
+}
