@@ -319,3 +319,20 @@ height: 200px;
 .normal {
   font-style: normal;
 }
+
+/* font-weight */
+.thin, .bold, .bolder {
+ font-family: Helvetica;
+}
+
+.thin {
+  font-weight: 100;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bolder {
+  font-weight: bolder;
+}
