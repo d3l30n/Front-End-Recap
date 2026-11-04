@@ -421,3 +421,13 @@ height: 200px;
   bottom: 10px;
   right: 10px;
 }
+
+/*Fixed*/
+.fixed {
+  position: fixed;
+  background-color: lightcoral;
+  width: 100px;
+  height: 100px;
+  top: 10px;
+  right: 10px;
+}
