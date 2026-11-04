@@ -306,3 +306,16 @@ height: 200px;
 .fantasy {
   font-family: fantasy;
 }
+
+/* font-style */
+.italic {
+  font-style: italic;
+}
+
+.oblique {
+  font-style: oblique;
+}
+
+.normal {
+  font-style: normal;
+}
