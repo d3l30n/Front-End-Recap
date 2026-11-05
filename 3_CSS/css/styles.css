@@ -443,3 +443,31 @@ height: 200px;
   top: 50px;
   right: 100px;
 }
+
+/* Z index */
+.absolute-3, .absolute-4, .absolute-5 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: #123;
+}
+
+.absolute-3 {
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.absolute-4 {
+  top: 10px;
+  left: 10px;
+  background-color: #246;
+  z-index: 2;
+}
+
+.absolute-5 {
+  top: 40px;
+  left: 40px;
+  background-color: #369;
+  z-index: 1;
+}
