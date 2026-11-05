@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 43c95178ffec4b9fbd8dd7549893b3d10471ff52 Deleon <yougomylad@gmail.com> 1793287844 -0300	commit (initial): Initial commit
+43c95178ffec4b9fbd8dd7549893b3d10471ff52 02971c19c32b9e2c82810d63fe82b406c12c037b Deleon <yougomylad@gmail.com> 1793287952 -0300	commit: Criação do Repositório
+02971c19c32b9e2c82810d63fe82b406c12c037b e044cf01fa24f41530d699369f0018bcde8385b7 Deleon <yougomylad@gmail.com> 1793288424 -0300	commit: Atributos
+e044cf01fa24f41530d699369f0018bcde8385b7 36f875ddfc4b5c9a4871ea578264b4404c720c38 Deleon <yougomylad@gmail.com> 1793289651 -0300	commit: Abrir link em nova aba
+36f875ddfc4b5c9a4871ea578264b4404c720c38 0abbf492646e268410bce32e8bdbe603180fd8d1 Deleon <yougomylad@gmail.com> 1793290515 -0300	commit: Imagem no HTMl
+0abbf492646e268410bce32e8bdbe603180fd8d1 f3cf03d7f4c45df61e3bb3555a9890f772991ed1 Deleon <yougomylad@gmail.com> 1793290680 -0300	commit: Atributo Alt
+f3cf03d7f4c45df61e3bb3555a9890f772991ed1 41aba55508b4799f03c7ad657466523cc63b5db9 Deleon <yougomylad@gmail.com> 1793291282 -0300	commit: Listas não ordenadas
+41aba55508b4799f03c7ad657466523cc63b5db9 1776e45da6e51f3c8bd9a3295602815509c7884e Deleon <yougomylad@gmail.com> 1793291386 -0300	commit: Listas Ordenadas
+1776e45da6e51f3c8bd9a3295602815509c7884e 7c270f608d9784ccc0a8e5480d736cc792a6ec77 Deleon <yougomylad@gmail.com> 1793291760 -0300	commit: Tabelas
+7c270f608d9784ccc0a8e5480d736cc792a6ec77 9e710a896750d79bc29ddb8dc829ae912a336ddc Deleon <yougomylad@gmail.com> 1793293085 -0300	commit: tag Div
+9e710a896750d79bc29ddb8dc829ae912a336ddc 17c918a1b8ce8c7ed2c42f0c00b5695a8033702b Deleon <yougomylad@gmail.com> 1793294445 -0300	commit: Desafio Html
+17c918a1b8ce8c7ed2c42f0c00b5695a8033702b 028fdf00ade48280b2b3bc867cd6ce67d69717ec Deleon <yougomylad@gmail.com> 1793306572 -0300	commit: Inline Css
+028fdf00ade48280b2b3bc867cd6ce67d69717ec b5f2acb26f7f8930b0facb5412608636d452bdce Deleon <yougomylad@gmail.com> 1793307554 -0300	commit: Múltiplas Regras
+b5f2acb26f7f8930b0facb5412608636d452bdce 201abde524d99506f4d39809c10f00644f43a3e5 Deleon <yougomylad@gmail.com> 1793308026 -0300	commit: Internal Css
+201abde524d99506f4d39809c10f00644f43a3e5 e1a8d50ea5b97105bad80a92623bde25e682f6c4 Deleon <yougomylad@gmail.com> 1793371904 -0300	commit: styles.css
+e1a8d50ea5b97105bad80a92623bde25e682f6c4 fd6435ac7cdcfd54137bd0c07be9b4f0e659f6db Deleon <yougomylad@gmail.com> 1793480243 -0300	commit: Ordem do Css
+fd6435ac7cdcfd54137bd0c07be9b4f0e659f6db a0dea1feffc55eb17033902d3321bf50e8452032 Deleon <yougomylad@gmail.com> 1793482072 -0300	commit: Multíplos Arquivos de Css
+a0dea1feffc55eb17033902d3321bf50e8452032 b9be28c829678b3007ee18221b74e89b607faf33 Deleon <yougomylad@gmail.com> 1793482519 -0300	commit: Desafio Css
+b9be28c829678b3007ee18221b74e89b607faf33 bfafe853469e7130443414337ba485ea7f64edae Deleon <yougomylad@gmail.com> 1793484250 -0300	commit: Comentários no Css
+bfafe853469e7130443414337ba485ea7f64edae 7c4604f6cc7f7aee94314fee451405fb1f34e37b Deleon <yougomylad@gmail.com> 1793642447 -0300	commit: Classes
+7c4604f6cc7f7aee94314fee451405fb1f34e37b b742ce95d62d93f3bee6b6f0606c51ff050b14c5 Deleon <yougomylad@gmail.com> 1793642713 -0300	commit: Id
+b742ce95d62d93f3bee6b6f0606c51ff050b14c5 b5a72a619e492bf604ce49395e5b6ef0d3aca891 Deleon <yougomylad@gmail.com> 1793647083 -0300	commit: Ordem de Seletores
+b5a72a619e492bf604ce49395e5b6ef0d3aca891 98ad06e71c9bfab68dbb992bdb4f15643d07b225 Deleon <yougomylad@gmail.com> 1793648191 -0300	commit: Cor pelo Nome
+98ad06e71c9bfab68dbb992bdb4f15643d07b225 1f39c777de22cc80215798f3b868d86525b9c88d Deleon <yougomylad@gmail.com> 1793648555 -0300	commit: Hex
+1f39c777de22cc80215798f3b868d86525b9c88d 25039fd6c180b9188a32fe8a051a8c0076310aff Deleon <yougomylad@gmail.com> 1793652932 -0300	commit: Aprofundando em Hexadecimal
+25039fd6c180b9188a32fe8a051a8c0076310aff b49c0ef361c5f0c2b55efa26c316a75763896d58 Deleon <yougomylad@gmail.com> 1793654856 -0300	commit: RGBA
+b49c0ef361c5f0c2b55efa26c316a75763896d58 02a4c50474c758d2b5a36fd90a71fe88604c01bc Deleon <yougomylad@gmail.com> 1793655056 -0300	commit: HSL
+02a4c50474c758d2b5a36fd90a71fe88604c01bc 3104fff24c1a56c7bf7d3102f43ec451411fbafc Deleon <yougomylad@gmail.com> 1793656840 -0300	commit: background-color
+3104fff24c1a56c7bf7d3102f43ec451411fbafc f9f5fec470f3a9c4e864b7093a60277dc9fe9934 Deleon <yougomylad@gmail.com> 1793718740 -0300	commit: Background Opacity
+f9f5fec470f3a9c4e864b7093a60277dc9fe9934 193f5640399c44bb58b9450f0e58d7b5cc58ecc7 Deleon <yougomylad@gmail.com> 1793719630 -0300	commit: rgba opacity
+193f5640399c44bb58b9450f0e58d7b5cc58ecc7 60f01280c2b9ed9c3d6049d00fcf288714d1c62b Deleon <yougomylad@gmail.com> 1793719960 -0300	commit: Imagem no Background
+60f01280c2b9ed9c3d6049d00fcf288714d1c62b 9472534e61cf49c79c1db032561f6d09c20c2822 Deleon <yougomylad@gmail.com> 1793723297 -0300	commit: Centralizando a Background Image
+9472534e61cf49c79c1db032561f6d09c20c2822 158a9fb6e44746527acc4f391b1f89f27c3f11da Deleon <yougomylad@gmail.com> 1793724871 -0300	commit: height e width
+158a9fb6e44746527acc4f391b1f89f27c3f11da 426a47aa3de4963d038904f67638ff7d15696e35 Deleon <yougomylad@gmail.com> 1793725195 -0300	commit: Padding
+426a47aa3de4963d038904f67638ff7d15696e35 108d700276f6b8797e6ecfd0feefa987677cf2b2 Deleon <yougomylad@gmail.com> 1793727653 -0300	commit: Padding Individual
+108d700276f6b8797e6ecfd0feefa987677cf2b2 25b8685e61fac1f09b2f317a3a1beb9b2a00b432 Deleon <yougomylad@gmail.com> 1793728025 -0300	commit: Shorthand Padding
+25b8685e61fac1f09b2f317a3a1beb9b2a00b432 e192010ae4a9131819d4dc172638e61c76580e7d Deleon <yougomylad@gmail.com> 1793728864 -0300	commit: Padding e Width
+e192010ae4a9131819d4dc172638e61c76580e7d e675a2f0393fd6dfed48c36a626ff97d6fa7de96 Deleon <yougomylad@gmail.com> 1793729106 -0300	commit: Border
+e675a2f0393fd6dfed48c36a626ff97d6fa7de96 4d795858672d24b683c3b6511d5cd980a8ce7cac Deleon <yougomylad@gmail.com> 1793729602 -0300	commit: Borda Individual
+4d795858672d24b683c3b6511d5cd980a8ce7cac 47a1115fe8815714428010018d2d0b34c0dc5ca9 Deleon <yougomylad@gmail.com> 1793733572 -0300	commit: Border-radius
+47a1115fe8815714428010018d2d0b34c0dc5ca9 e0c2d318c9460ca4809fa199bab304d80e1086f6 Deleon <yougomylad@gmail.com> 1793736537 -0300	commit: Margin
+e0c2d318c9460ca4809fa199bab304d80e1086f6 97b1eaa424482b694a5e330b352f4f829229d1f4 Deleon <yougomylad@gmail.com> 1793736762 -0300	commit: Unindo Conceitos de Box Model
+97b1eaa424482b694a5e330b352f4f829229d1f4 15ff3ba11867bb63babaa29dabc1bd13efa658c8 Deleon <yougomylad@gmail.com> 1793737365 -0300	commit: Alinhamento de Texto
+15ff3ba11867bb63babaa29dabc1bd13efa658c8 98392445c3203148b5f9bc72e15b34d0caea190e Deleon <yougomylad@gmail.com> 1793737607 -0300	commit: Decorando o Texto
+98392445c3203148b5f9bc72e15b34d0caea190e 4eff9d2aa1b5f933a4ffe42ff3dd5e91e90a388e Deleon <yougomylad@gmail.com> 1793811885 -0300	commit: Text Transform
+4eff9d2aa1b5f933a4ffe42ff3dd5e91e90a388e 157929395c950dbd42419c4cc707c9df0977799a Deleon <yougomylad@gmail.com> 1793812085 -0300	commit: letter-spacing
+157929395c950dbd42419c4cc707c9df0977799a 9139a22dfb6da3a697133da86792303c247df159 Deleon <yougomylad@gmail.com> 1793812635 -0300	commit: font-family
+9139a22dfb6da3a697133da86792303c247df159 b29700177dc3d76ed1fa0661f1e28d258de331e7 Deleon <yougomylad@gmail.com> 1793812752 -0300	commit: font-style
+b29700177dc3d76ed1fa0661f1e28d258de331e7 1323c8ead461d20edaeff9b09cef76044f43cc26 Deleon <yougomylad@gmail.com> 1793812964 -0300	commit: Font-weight
+1323c8ead461d20edaeff9b09cef76044f43cc26 a93348901dbee6fead976690258f51f57971e2e0 Deleon <yougomylad@gmail.com> 1793826464 -0300	commit: Display
+a93348901dbee6fead976690258f51f57971e2e0 e7094396e211fdb6a70c5d8725c63c1df21d88c4 Deleon <yougomylad@gmail.com> 1793826609 -0300	commit: Escondendo Elemento
+e7094396e211fdb6a70c5d8725c63c1df21d88c4 39dbcb8cf3970ff60fcae2c0aabe040656b51a18 Deleon <yougomylad@gmail.com> 1793826877 -0300	commit: position static
+39dbcb8cf3970ff60fcae2c0aabe040656b51a18 59d1914c43d45ca80832e674a5f49eb03b873982 Deleon <yougomylad@gmail.com> 1793827525 -0300	commit: Position relative
+59d1914c43d45ca80832e674a5f49eb03b873982 42a27a5482289636202ca5477219731c5b8309a0 Deleon <yougomylad@gmail.com> 1793827700 -0300	commit: Position Absolute
+42a27a5482289636202ca5477219731c5b8309a0 406295780aa89ab0f6e08dbb8b942259598a00af Deleon <yougomylad@gmail.com> 1793828865 -0300	commit: Relative com absolute
+406295780aa89ab0f6e08dbb8b942259598a00af 4eace99845f0cb0a1b2f2df619259415aadcc6c3 Deleon <yougomylad@gmail.com> 1793829114 -0300	commit: Position fixed
