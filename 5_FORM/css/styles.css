@@ -7,7 +7,8 @@ div {
 }
 
 div input, 
-div label {
+div label,
+div select {
   display: block;
 }
 
