@@ -1,0 +1,114 @@
+
+/* Configurações gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #10151d;
+    color: #e5e5eb;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+/* Container principal */
+.container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #171e29;
+    border: 1px solid #283b4d;
+    border-radius: 10px;
+}
+
+/* Cabeçalho */
+.header {
+    text-align: center;
+    padding: 35px 15px;
+    border-bottom: 2px solid #00b9d8;
+    margin-bottom: 30px;
+}
+
+.main-title {
+    color: #00d9f5;
+    font-size: 32px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.main-paragraph {
+    color: #e45bba;
+    font-size: 18px;
+    font-style: italic;
+}
+
+/* Imagens */
+figure {
+    margin: 30px 0;
+    text-align: center;
+}
+
+figure img {
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #354d63;
+    box-shadow: 0 0 15px rgba(0, 217, 245, 0.15);
+}
+
+figure img.full-image {
+    height: auto;
+    object-fit: contain;
+}
+
+/* Conteúdo */
+.content,
+.content-2 {
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 8px;
+    border-left: 4px solid #00c8e8;
+    background-color: #202b39;
+}
+
+.content-2 {
+    border-left-color: #d94cae;
+    background-color: #252331;
+}
+
+/* Títulos dos conteúdos */
+.content h2,
+.content-2 h2 {
+    color: #00d9f5;
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+.content-2 h2 {
+    color: #ed70c4;
+}
+
+/* Parágrafos */
+.content p,
+.content-2 p {
+    color: #c5cbd5;
+    font-size: 16px;
+    text-align: justify;
+}
+
+/* Efeito ao passar o mouse */
+figure img:hover {
+    border-color: #00d9f5;
+    box-shadow: 0 0 20px rgba(0, 217, 245, 0.35);
+    transition: 0.3s;
+}
+
+.content:hover,
+.content-2:hover {
+    transform: translateX(5px);
+    transition: 0.3s;
+}
