@@ -56,8 +56,9 @@
             <label for="automatic">Automático</label>
             </div>
 
-            <div class="optional-box">
-            <p>Opcionais</p>
+
+           <div class="optional-box">
+              <p>Opcionais</p>
               <ul class="optional-list">
                 <li>
                   <input type="checkbox"
@@ -81,10 +82,42 @@
                   value="reverse_camera">
                   <label for="reverse_camera">Câmera de Ré</label>
                 </li>
-
               </ul>
             </div>
-            <input type="submit" value="Enviar"/> 
+                        <div class="optional-box">
+            <p>Opcionais</p>
+              <ul class="optional-list">
+                <li>
+                  <input type="checkbox"
+                  id="lane_assist"
+                  name="optional[]"
+                  value="lane_assist">
+                  <label for="lane_assist">Assistente de Pista</label>
+                  <input type="checkbox"
+                  id="keyless"
+                  name="optional[]"
+                  value="keyless">
+                  <label for="keyless">Partida Sem Chave</label>
+                  <input type="checkbox"
+                  id="smartphone"
+                  name="optional[]"
+                  value="smartphone">
+                  <label for="smartphone">Integração com Celular</label>
+                  <input type="checkbox"
+                  id="leather_seat"
+                  name="optional[]"
+                  value="leather_seat">
+                  <label for="leather_seat">Banco de Couro</label>
+                </li>
+              </ul>
+            </div>
+            <div class="box-input">
+
+              <p>Fotos do Carro: <span class="required-field">*</span></p>
+              <input type="file" multiple accept="image/png, image/jpeg" id="images" name="images" required>
+            </div>
+
+            <input type="submit" value="Enviar" class="btn-submit"/> 
 
             </form>
          </div>
