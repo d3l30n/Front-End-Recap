@@ -12,10 +12,10 @@ h1 {
 }
 
 /* 3 - min-width */
-  p {
-    background-color: red;
-    color: #000;
-  }
+p {
+  background-color: red;
+  color: #000;
+}
 
 
 @media screen and (min-width: 800px) {
@@ -24,4 +24,14 @@ h1 {
     color: red;
   }
 
+}
+/* 4 - landscape */
+h3 {
+  display: none;
+}
+
+@media screen and (orientation: landscape) {
+  h3 {
+    display: block;
+  }
 }
